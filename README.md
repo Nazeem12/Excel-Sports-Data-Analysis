@@ -1,13 +1,13 @@
 # Sports-Data-Analysis
 
-Excel-Sports-Data-Analysis
+**Excel-Sports-Data-Analysis**
 
 This project is about analyzing sports data in Excel. The dataset contains a variety of sports-related data, including individual statistics, team performance, game outcomes, and more. This analysis tries to identify important insights and trends in the sports sector using the capabilities of Excel.
 
-Key Features:
+**Key Features:**
 Data cleaning and preprocessing techniques are applied to ensure data accuracy and consistency.techniques are Utilization of Excel functions, formulas, and macros to automate repetitive tasks and streamline data analysis. Calculation of key performance indicators (KPIs) to evaluate player or team performance and identify trends. Creation of dynamic charts and visualizations to represent sports data in an informative and visually appealing manner. Statistical analysis is used to identify patterns, correlations, and anomalies in the data. Utilization of Excel's data modeling capabilities, such as pivot tables and data tables, for comprehensive analysis. Extracting insights and making data-driven decisions to enhance team strategies, player selection, and performance evaluation.
 
-Skills and Techniques Utilized:
+**Skills and Techniques Utilized:**
 Excel: Data cleaning, manipulation, and analysis
 
 Formulas and functions: Statistical calculations, data aggregation, and conditional statements
